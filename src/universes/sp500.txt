@@ -1,6 +1,6 @@
 # sp500 constituents
 # source: Wikipedia List of S&P 500 companies
-# as-of: 2026-10-12
+# as-of: 2026-11-01
 # count: 502
 MMM
 AOS
@@ -376,18 +376,17 @@ PG
 PGR
 PLD
 PRU
-PEG
 PTC
+PEG
 PSA
 PHM
-PWR
-QCOM
-DGX
 Q
+QCOM
+PWR
+DGX
 RL
 RJF
 RDDT
-RTX
 O
 REG
 REGN
@@ -401,6 +400,7 @@ ROL
 ROP
 ROST
 RCL
+RTX
 SPGI
 CRM
 SNDK
