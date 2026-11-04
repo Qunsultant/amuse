@@ -1,0 +1,24 @@
+{
+ "id": "daily-watchlist-2026-11-04-2058",
+ "type": "daily",
+ "date": "2026-11-04-2058",
+ "title": "Options Lab \u2014 Daily Screen \u00b7 2026-11-04-2058",
+ "blurb": "DASH 29.9 leads; 27 bull puts, 16 condors, 16 asym condors; Decision: NO TRADE: no candidate cleared the decision gates; Portfolio risk not supplied",
+ "stats": {
+  "stocks": 21,
+  "stock_qualified": 21,
+  "stock_rejected": 78,
+  "stock_incomplete_data": 2,
+  "stock_errors": 0,
+  "bull_puts": 27,
+  "iron_condors": 16,
+  "asym_condors": 16,
+  "pmcc_pairs": 46,
+  "decision_candidates": 65,
+  "recommendation": "NO TRADE",
+  "Kelly": "UNSIZED",
+  "portfolio_risk": "not supplied"
+ },
+ "source": "watchlist",
+ "source_detail": "101 names"
+}
