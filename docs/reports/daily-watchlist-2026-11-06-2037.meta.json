@@ -1,0 +1,24 @@
+{
+ "id": "daily-watchlist-2026-11-06-2037",
+ "type": "daily",
+ "date": "2026-11-06-2037",
+ "title": "Options Lab \u2014 Daily Screen \u00b7 2026-11-06-2037",
+ "blurb": "AMZN 31.4 leads; 28 bull puts, 17 condors, 17 asym condors; Decision: NO TRADE: no candidate cleared the decision gates; Portfolio risk not supplied",
+ "stats": {
+  "stocks": 19,
+  "stock_qualified": 19,
+  "stock_rejected": 80,
+  "stock_incomplete_data": 2,
+  "stock_errors": 0,
+  "bull_puts": 28,
+  "iron_condors": 17,
+  "asym_condors": 17,
+  "pmcc_pairs": 49,
+  "decision_candidates": 39,
+  "recommendation": "NO TRADE",
+  "Kelly": "UNSIZED",
+  "portfolio_risk": "not supplied"
+ },
+ "source": "watchlist",
+ "source_detail": "101 names"
+}
