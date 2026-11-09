@@ -1,0 +1,24 @@
+{
+ "id": "daily-watchlist-2026-11-09-2325",
+ "type": "daily",
+ "date": "2026-11-09-2325",
+ "title": "Options Lab \u2014 Daily Screen \u00b7 2026-11-09-2325",
+ "blurb": "AAPL 32.0 leads; 16 bull puts, 10 condors, 10 asym condors; Decision: NO TRADE: no candidate cleared the decision gates; Portfolio risk not supplied",
+ "stats": {
+  "stocks": 26,
+  "stock_qualified": 26,
+  "stock_rejected": 72,
+  "stock_incomplete_data": 3,
+  "stock_errors": 0,
+  "bull_puts": 16,
+  "iron_condors": 10,
+  "asym_condors": 10,
+  "pmcc_pairs": 34,
+  "decision_candidates": 35,
+  "recommendation": "NO TRADE",
+  "Kelly": "UNSIZED",
+  "portfolio_risk": "not supplied"
+ },
+ "source": "watchlist",
+ "source_detail": "101 names"
+}
