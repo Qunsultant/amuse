@@ -1,0 +1,24 @@
+{
+ "id": "daily-watchlist-2026-11-10-2114",
+ "type": "daily",
+ "date": "2026-11-10-2114",
+ "title": "Options Lab \u2014 Daily Screen \u00b7 2026-11-10-2114",
+ "blurb": "SNPS 31.1 leads; 30 bull puts, 18 condors, 18 asym condors; Decision: NO TRADE: no candidate cleared the decision gates; Portfolio risk not supplied",
+ "stats": {
+  "stocks": 24,
+  "stock_qualified": 24,
+  "stock_rejected": 75,
+  "stock_incomplete_data": 2,
+  "stock_errors": 0,
+  "bull_puts": 30,
+  "iron_condors": 18,
+  "asym_condors": 18,
+  "pmcc_pairs": 31,
+  "decision_candidates": 63,
+  "recommendation": "NO TRADE",
+  "Kelly": "UNSIZED",
+  "portfolio_risk": "not supplied"
+ },
+ "source": "watchlist",
+ "source_detail": "101 names"
+}
