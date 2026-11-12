@@ -1,0 +1,24 @@
+{
+ "id": "daily-watchlist-2026-11-12-2123",
+ "type": "daily",
+ "date": "2026-11-12-2123",
+ "title": "Options Lab \u2014 Daily Screen \u00b7 2026-11-12-2123",
+ "blurb": "PYPL 30.6 leads; 22 bull puts, 13 condors, 13 asym condors; Decision: NO TRADE: no candidate cleared the decision gates; Portfolio risk not supplied",
+ "stats": {
+  "stocks": 26,
+  "stock_qualified": 26,
+  "stock_rejected": 73,
+  "stock_incomplete_data": 2,
+  "stock_errors": 0,
+  "bull_puts": 22,
+  "iron_condors": 13,
+  "asym_condors": 13,
+  "pmcc_pairs": 38,
+  "decision_candidates": 62,
+  "recommendation": "NO TRADE",
+  "Kelly": "UNSIZED",
+  "portfolio_risk": "not supplied"
+ },
+ "source": "watchlist",
+ "source_detail": "101 names"
+}
