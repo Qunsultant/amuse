@@ -1,0 +1,24 @@
+{
+ "id": "daily-watchlist-2026-11-13-2055",
+ "type": "daily",
+ "date": "2026-11-13-2055",
+ "title": "Options Lab \u2014 Daily Screen \u00b7 2026-11-13-2055",
+ "blurb": "CSX 31.1 leads; 32 bull puts, 19 condors, 18 asym condors; Decision: NO TRADE: no candidate cleared the decision gates; Portfolio risk not supplied",
+ "stats": {
+  "stocks": 28,
+  "stock_qualified": 28,
+  "stock_rejected": 71,
+  "stock_incomplete_data": 2,
+  "stock_errors": 0,
+  "bull_puts": 32,
+  "iron_condors": 19,
+  "asym_condors": 18,
+  "pmcc_pairs": 43,
+  "decision_candidates": 89,
+  "recommendation": "NO TRADE",
+  "Kelly": "UNSIZED",
+  "portfolio_risk": "not supplied"
+ },
+ "source": "watchlist",
+ "source_detail": "101 names"
+}
