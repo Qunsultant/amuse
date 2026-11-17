@@ -1,0 +1,17 @@
+{
+ "id": "intraday-nasdaq100-2026-11-17-2245",
+ "type": "intraday",
+ "date": "2026-11-17-2245",
+ "title": "Options Lab \u2014 Intraday Momentum Screen \u00b7 2026-11-17-2245",
+ "blurb": "No qualifiers \u2014 quiet screen",
+ "stats": {
+  "candidates": 0,
+  "qualified": 0,
+  "rejected": 100,
+  "incomplete_data": 1,
+  "errors": 0,
+  "screened": 101
+ },
+ "source": "nasdaq100",
+ "source_detail": "101 names"
+}
