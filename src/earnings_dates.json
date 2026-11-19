@@ -2,14 +2,8 @@
   "A": {
     "earnings": "2026-11-23"
   },
-  "AADX": {
-    "earnings": "2026-11-11"
-  },
   "ABAT": {
     "earnings": "2026-11-12"
-  },
-  "ABEO": {
-    "earnings": "2026-11-11"
   },
   "ABM": {
     "earnings": "2026-12-16"
@@ -34,9 +28,6 @@
   },
   "ADSK": {
     "earnings": "2026-11-24"
-  },
-  "AEBI": {
-    "earnings": "2026-11-11"
   },
   "AEO": {
     "earnings": "2026-12-01"
@@ -83,9 +74,6 @@
   "AMBA": {
     "earnings": "2026-11-24"
   },
-  "AMPY": {
-    "earnings": "2026-11-11"
-  },
   "ANAB": {
     "earnings": "2026-11-17"
   },
@@ -94,12 +82,6 @@
   },
   "ANGO": {
     "earnings": "2027-01-05"
-  },
-  "ANRO": {
-    "earnings": "2026-11-11"
-  },
-  "ANTX": {
-    "earnings": "2026-11-11"
   },
   "APMD": {
     "earnings": "2026-12-08"
@@ -110,14 +92,8 @@
   "AREC": {
     "earnings": "2026-11-20"
   },
-  "ARMP": {
-    "earnings": "2026-11-11"
-  },
   "ARQQ": {
     "earnings": "2026-12-08"
-  },
-  "ARTV": {
-    "earnings": "2026-11-11"
   },
   "ARX": {
     "earnings": "2026-11-12"
@@ -140,20 +116,11 @@
   "AVAH": {
     "earnings": "2026-11-12"
   },
-  "AVEX": {
-    "earnings": "2026-11-11"
-  },
   "AVGO": {
     "earnings": "2026-12-09"
   },
-  "AVLN": {
-    "earnings": "2026-11-11"
-  },
   "AVO": {
     "earnings": "2026-12-17"
-  },
-  "AVR": {
-    "earnings": "2026-11-11"
   },
   "AVXL": {
     "earnings": "2026-11-24"
@@ -163,6 +130,9 @@
   },
   "AZZ": {
     "earnings": "2027-01-06"
+  },
+  "BAC": {
+    "earnings": "2027-01-13"
   },
   "BALY": {
     "earnings": "2026-11-18"
@@ -186,13 +156,13 @@
     "earnings": "2026-11-12"
   },
   "BLBD": {
-    "earnings": "2026-11-23"
-  },
-  "BMBL": {
-    "earnings": "2026-11-11"
+    "earnings": "2026-12-02"
   },
   "BNAI": {
     "earnings": "2026-11-24"
+  },
+  "BNED": {
+    "earnings": "2026-12-08"
   },
   "BNTC": {
     "earnings": "2026-11-13"
@@ -233,6 +203,9 @@
   "BZH": {
     "earnings": "2026-11-12"
   },
+  "C": {
+    "earnings": "2027-01-13"
+  },
   "CADL": {
     "earnings": "2026-11-12"
   },
@@ -252,7 +225,7 @@
     "earnings": "2026-11-12"
   },
   "CBRL": {
-    "earnings": "2026-12-08"
+    "earnings": "2026-12-02"
   },
   "CCL": {
     "earnings": "2026-12-18"
@@ -296,9 +269,6 @@
   "CMP": {
     "earnings": "2026-11-23"
   },
-  "CMPX": {
-    "earnings": "2026-11-11"
-  },
   "CMTV": {
     "earnings": "2026-11-13"
   },
@@ -307,9 +277,6 @@
   },
   "CNTN": {
     "earnings": "2026-11-18"
-  },
-  "CNTX": {
-    "earnings": "2026-11-11"
   },
   "CNXC": {
     "earnings": "2027-01-12"
@@ -321,16 +288,10 @@
     "earnings": "2026-12-10"
   },
   "CPB": {
-    "earnings": "2026-12-08"
+    "earnings": "2026-12-09"
   },
   "CPRT": {
     "earnings": "2026-12-01"
-  },
-  "CRBP": {
-    "earnings": "2026-11-11"
-  },
-  "CRBU": {
-    "earnings": "2026-11-11"
   },
   "CRM": {
     "earnings": "2026-12-02"
@@ -339,7 +300,7 @@
     "earnings": "2026-11-12"
   },
   "CRNC": {
-    "earnings": "2026-11-18"
+    "earnings": "2026-12-01"
   },
   "CRWD": {
     "earnings": "2026-12-01"
@@ -358,9 +319,6 @@
   },
   "CTRN": {
     "earnings": "2026-12-01"
-  },
-  "CURI": {
-    "earnings": "2026-11-11"
   },
   "CURV": {
     "earnings": "2026-12-02"
@@ -395,9 +353,6 @@
   "DG": {
     "earnings": "2026-12-03"
   },
-  "DGII": {
-    "earnings": "2026-11-11"
-  },
   "DIS": {
     "earnings": "2026-11-17"
   },
@@ -431,9 +386,6 @@
   "EBF": {
     "earnings": "2026-12-28"
   },
-  "ECBK": {
-    "earnings": "2026-11-11"
-  },
   "EIKN": {
     "earnings": "2026-11-12"
   },
@@ -446,17 +398,11 @@
   "ELTX": {
     "earnings": "2026-11-12"
   },
-  "ELVN": {
-    "earnings": "2026-11-11"
-  },
   "EMBC": {
     "earnings": "2026-11-24"
   },
   "ENR": {
     "earnings": "2026-11-17"
-  },
-  "ENS": {
-    "earnings": "2026-11-11"
   },
   "ENTA": {
     "earnings": "2026-11-16"
@@ -473,9 +419,6 @@
   "EPSN": {
     "earnings": "2026-11-23"
   },
-  "ERAS": {
-    "earnings": "2026-11-11"
-  },
   "EROC": {
     "earnings": "2026-11-12"
   },
@@ -484,9 +427,6 @@
   },
   "ESOA": {
     "earnings": "2026-12-08"
-  },
-  "ESP": {
-    "earnings": "2026-11-11"
   },
   "EU": {
     "earnings": "2026-11-16"
@@ -499,9 +439,6 @@
   },
   "EYPT": {
     "earnings": "2026-11-12"
-  },
-  "FBLA": {
-    "earnings": "2026-11-11"
   },
   "FBYD": {
     "earnings": "2026-11-13"
@@ -527,26 +464,20 @@
   "FGBI": {
     "earnings": "2026-11-16"
   },
-  "FHTX": {
-    "earnings": "2026-11-11"
-  },
   "FIZZ": {
     "earnings": "2026-12-10"
   },
   "FLNC": {
     "earnings": "2026-11-23"
   },
-  "FLNG": {
-    "earnings": "2026-11-11"
-  },
   "FLO": {
     "earnings": "2026-11-12"
   },
-  "FLYX": {
-    "earnings": "2026-11-11"
-  },
   "FUBO": {
     "earnings": "2026-11-17"
+  },
+  "FUL": {
+    "earnings": "2027-01-13"
   },
   "FULC": {
     "earnings": "2026-11-18"
@@ -592,6 +523,9 @@
   },
   "HD": {
     "earnings": "2026-11-17"
+  },
+  "HOMB": {
+    "earnings": "2027-01-13"
   },
   "HOV": {
     "earnings": "2026-12-03"
@@ -650,9 +584,6 @@
   "IMMX": {
     "earnings": "2026-11-13"
   },
-  "IMRX": {
-    "earnings": "2026-11-11"
-  },
   "INBX": {
     "earnings": "2026-11-13"
   },
@@ -667,9 +598,6 @@
   },
   "IPSC": {
     "earnings": "2026-11-12"
-  },
-  "IRD": {
-    "earnings": "2026-11-11"
   },
   "IVVD": {
     "earnings": "2026-11-19"
@@ -719,9 +647,6 @@
   "KLIC": {
     "earnings": "2026-11-18"
   },
-  "KLRA": {
-    "earnings": "2026-11-11"
-  },
   "KMTS": {
     "earnings": "2026-12-10"
   },
@@ -731,17 +656,11 @@
   "KR": {
     "earnings": "2026-12-03"
   },
-  "KRRO": {
-    "earnings": "2026-11-11"
-  },
   "KRUS": {
     "earnings": "2027-01-06"
   },
   "KSS": {
     "earnings": "2026-11-24"
-  },
-  "KYTX": {
-    "earnings": "2026-11-11"
   },
   "LCTX": {
     "earnings": "2026-11-12"
@@ -794,9 +713,6 @@
   "LXEO": {
     "earnings": "2026-11-18"
   },
-  "LYEL": {
-    "earnings": "2026-11-11"
-  },
   "LZB": {
     "earnings": "2026-11-17"
   },
@@ -820,9 +736,6 @@
   },
   "MEI": {
     "earnings": "2026-12-02"
-  },
-  "MGNX": {
-    "earnings": "2026-11-11"
   },
   "MGTX": {
     "earnings": "2026-11-12"
@@ -932,9 +845,6 @@
   "ODC": {
     "earnings": "2026-12-07"
   },
-  "ODD": {
-    "earnings": "2026-11-11"
-  },
   "OFRM": {
     "earnings": "2026-11-12"
   },
@@ -959,14 +869,8 @@
   "ORIC": {
     "earnings": "2026-11-12"
   },
-  "ORKA": {
-    "earnings": "2026-11-11"
-  },
   "ORMP": {
     "earnings": "2026-11-12"
-  },
-  "OVID": {
-    "earnings": "2026-11-11"
   },
   "OXM": {
     "earnings": "2026-12-09"
@@ -990,7 +894,7 @@
     "earnings": "2026-11-12"
   },
   "PCYO": {
-    "earnings": "2026-11-18"
+    "earnings": "2027-01-06"
   },
   "PD": {
     "earnings": "2026-11-24"
@@ -1012,9 +916,6 @@
   },
   "PLAY": {
     "earnings": "2026-12-08"
-  },
-  "PLGO": {
-    "earnings": "2026-11-11"
   },
   "PNRG": {
     "earnings": "2026-11-18"
@@ -1064,6 +965,9 @@
   "REX": {
     "earnings": "2026-12-03"
   },
+  "RFIL": {
+    "earnings": "2027-01-13"
+  },
   "RGCO": {
     "earnings": "2026-11-18"
   },
@@ -1084,9 +988,6 @@
   },
   "ROST": {
     "earnings": "2026-11-19"
-  },
-  "RUM": {
-    "earnings": "2026-11-11"
   },
   "SBC": {
     "earnings": "2026-11-13"
@@ -1124,26 +1025,14 @@
   "SIG": {
     "earnings": "2026-12-02"
   },
-  "SION": {
-    "earnings": "2026-11-11"
-  },
   "SJM": {
     "earnings": "2026-11-24"
   },
   "SLNH": {
     "earnings": "2026-11-13"
   },
-  "SLS": {
-    "earnings": "2026-11-11"
-  },
   "SMID": {
     "earnings": "2026-11-16"
-  },
-  "SMTI": {
-    "earnings": "2026-11-11"
-  },
-  "SND": {
-    "earnings": "2026-11-11"
   },
   "SNEX": {
     "earnings": "2026-11-18"
@@ -1166,9 +1055,6 @@
   "SR": {
     "earnings": "2026-11-17"
   },
-  "SSMR": {
-    "earnings": "2026-11-11"
-  },
   "STNE": {
     "earnings": "2026-11-12"
   },
@@ -1180,9 +1066,6 @@
   },
   "SVIA": {
     "earnings": "2026-11-12"
-  },
-  "SVRA": {
-    "earnings": "2026-11-11"
   },
   "SWBI": {
     "earnings": "2026-12-03"
@@ -1196,9 +1079,6 @@
   "TECH": {
     "earnings": "2026-11-18"
   },
-  "TENX": {
-    "earnings": "2026-11-11"
-  },
   "TGT": {
     "earnings": "2026-11-18"
   },
@@ -1208,20 +1088,11 @@
   "TJX": {
     "earnings": "2026-11-18"
   },
-  "TK": {
-    "earnings": "2026-11-11"
-  },
-  "TNK": {
-    "earnings": "2026-11-11"
-  },
   "TOYO": {
     "earnings": "2026-11-16"
   },
   "TRAK": {
     "earnings": "2026-11-16"
-  },
-  "TRAX": {
-    "earnings": "2026-11-11"
   },
   "TRON": {
     "earnings": "2026-11-23"
@@ -1241,11 +1112,11 @@
   "TWST": {
     "earnings": "2026-11-12"
   },
-  "TYRA": {
-    "earnings": "2026-11-11"
-  },
   "UAMY": {
     "earnings": "2026-11-12"
+  },
+  "UCB": {
+    "earnings": "2027-01-13"
   },
   "UEC": {
     "earnings": "2026-12-09"
@@ -1264,9 +1135,6 @@
   },
   "UNTY": {
     "earnings": "2027-01-12"
-  },
-  "UPB": {
-    "earnings": "2026-11-11"
   },
   "URBN": {
     "earnings": "2026-11-24"
@@ -1304,9 +1172,6 @@
   "VOR": {
     "earnings": "2026-11-12"
   },
-  "VOXR": {
-    "earnings": "2026-11-11"
-  },
   "VREX": {
     "earnings": "2026-11-17"
   },
@@ -1319,14 +1184,11 @@
   "VUZI": {
     "earnings": "2026-11-12"
   },
-  "VYLR": {
-    "earnings": "2026-11-11"
-  },
-  "WATT": {
-    "earnings": "2026-11-11"
-  },
   "WDAY": {
     "earnings": "2026-11-24"
+  },
+  "WFC": {
+    "earnings": "2027-01-13"
   },
   "WGO": {
     "earnings": "2026-12-18"
@@ -1344,7 +1206,7 @@
     "earnings": "2026-11-19"
   },
   "WOOF": {
-    "earnings": "2026-11-24"
+    "earnings": "2026-12-08"
   },
   "WOR": {
     "earnings": "2026-12-15"
